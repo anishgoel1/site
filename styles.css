@@ -1,0 +1,52 @@
+body {
+  font-family: 'Menlo', monospace;
+  margin: 40px;
+  color: #ffffff;
+  background-color: #121615;
+}
+
+header, section, footer {
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 24px;
+}
+
+header p, footer p {
+  font-size: 14px;
+}
+
+section h2 {
+  color: #555;
+}
+
+figure img {
+  display: block; 
+  width: auto; 
+  height: 350px;
+  padding: 5px; 
+}
+
+div.scroll-container {
+  background-color: #2a2929;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 6px;
+}
+
+figure {
+  display: inline-block;
+  margin: 5px; 
+  color: #fff; 
+  text-align: center;
+  font-size: 12px; 
+}
+
+a {
+  color: #91d7ff;
+}
+
+li {
+  margin-bottom: 15px; 
+}
